@@ -654,7 +654,7 @@ p {
   padding: 4em 0;
   font-size: 16px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1500px) {
   #fh5co-footer {
     padding: 3em 0;
   }
